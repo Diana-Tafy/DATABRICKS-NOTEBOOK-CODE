@@ -50,3 +50,6 @@ This directory houses the core data assets for the retail coffee shop optimizati
 * **Platform:** Databricks (Free Edition / Community Cloud)
 * **Storage Provider:** Delta Lake / Hive Metastore
 * **Language:** ANSI SQL
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b4151865-7fd2-4de2-81a4-5db81e5e856b" />
+
