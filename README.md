@@ -36,9 +36,9 @@ This directory houses the core data assets for the retail coffee shop optimizati
 | :--- | :--- | :--- |
 | `product_id` | Integer | Unique primary key for each product catalog item |
 | `product_code` | String / Varchar | Internal inventory/SKU code identifier |
-| `product_name` | String / Varchar | Consumer-facing item name (e.g., Espresso, Cappuccino) |
+| `product_name` | String / Varchar | Consumer-facing item name (e.g., Chinesse Tea, Coffee etc) |
 | `price` | Decimal / Double | Standard unit retail price |
-| `category` | String / Varchar | Menu classification category (e.g., Hot Beverages, Pastries) |
+| `category` | String / Varchar | Menu classification category (e.g., Coffee,Tea,etc) |
 
 ### Analytical Use Cases
 * **Menu Optimization:** Aggregating sales metrics by category to identify underperforming vs. high-margin items.
