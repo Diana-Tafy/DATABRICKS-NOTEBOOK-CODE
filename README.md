@@ -53,3 +53,6 @@ This directory houses the core data assets for the retail coffee shop optimizati
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b4151865-7fd2-4de2-81a4-5db81e5e856b" />
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/77245a46-d56a-411d-a317-c189f6d65408" />
+
+
